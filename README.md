@@ -1,4 +1,4 @@
-## Google Cloud Setup
+## [Google Cloud](https://cloud.google.com) Setup
 
 ![Google Cloud](images/gc0.png)
 ![Google Cloud](images/gc1.png)
