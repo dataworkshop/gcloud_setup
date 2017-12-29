@@ -31,3 +31,10 @@ While in doubt, use Ubuntu 16.04 :)
 ![Google Cloud](images/gc11.png)
 ![Google Cloud](images/gc12.1.png)
 ![Google Cloud](images/gc12.2.png)
+
+
+## Other links
+- [Google Cloud Tutorial](http://cs231n.github.io/gce-tutorial/)
+- [Launch a GPU-backed Google Compute Engine instance and setup Tensorflow, Keras and Jupyter](https://hackernoon.com/launch-a-gpu-backed-google-compute-engine-instance-and-setup-tensorflow-keras-and-jupyter-902369ed5272)
+- [Quick Start Linux](https://cloud.google.com/compute/docs/quickstart-linux)
+- []()
