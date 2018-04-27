@@ -3,13 +3,13 @@
 ![Google Cloud](images/gc0.png)
 ![Google Cloud](images/gc1.png)
 
-## (1) name
+## (1) Name
 Just type a name for your instance, just someting sensible :)
 
-## (2) select zones
+## (2) Select zones
 Be aware, that usualy US zones chepear, than EU or Asia
 
-## (3) machine type
+## (3) Machine type
 Select how many CPU and RAM do you need. Btw, you can click "customize" and select in more flexible way.
 
 ## (4) Operation System
@@ -18,6 +18,9 @@ While in doubt, use Ubuntu 16.04 :)
 ![Google Cloud](images/gc3.png)
 ![Google Cloud](images/gc4.png)
 ![Google Cloud](images/gc5.1.png)
+
+*Note*. That on trial version you don't have access to GPU. If you really need GPU you should [Upgrade Free Trial to Paid Account](https://www.youtube.com/watch?v=OmXuQxQ-4EE). But when you have upgraded, you can not rollback, so... be careful.
+
 ![Google Cloud](images/gc5.2.png)
 ![Google Cloud](images/gc6.png)
 ![Google Cloud](images/gc7.png)
